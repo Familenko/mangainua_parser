@@ -1,4 +1,6 @@
 venv/
 .venv/
 data/
+pdf/
 .DS_Store
+archive/
